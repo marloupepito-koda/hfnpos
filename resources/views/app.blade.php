@@ -22,6 +22,12 @@
     </head>
     <body>
         <div id="app">
-               </div>
+        </div>
     </body>
+
+    <script type='text/javascript' src='https://secure.trust-provider.com/trustlogo/javascript/trustlogo.js'></script>
+
+        <script type='text/javascript'>
+        TrustLogo("https://sectigo.com/images/seals/sectigo_trust_seal_lg_2x.png", "SECEV", "none");
+        </script>
 </html>
